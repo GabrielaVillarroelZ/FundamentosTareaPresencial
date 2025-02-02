@@ -1,0 +1,14 @@
+/Users/gabrielavillarroel/BlackJack/BlackJack/bin/Debug/net9.0/BlackJack
+/Users/gabrielavillarroel/BlackJack/BlackJack/bin/Debug/net9.0/BlackJack.deps.json
+/Users/gabrielavillarroel/BlackJack/BlackJack/bin/Debug/net9.0/BlackJack.runtimeconfig.json
+/Users/gabrielavillarroel/BlackJack/BlackJack/bin/Debug/net9.0/BlackJack.dll
+/Users/gabrielavillarroel/BlackJack/BlackJack/bin/Debug/net9.0/BlackJack.pdb
+/Users/gabrielavillarroel/BlackJack/BlackJack/obj/Debug/net9.0/BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielavillarroel/BlackJack/BlackJack/obj/Debug/net9.0/BlackJack.AssemblyInfoInputs.cache
+/Users/gabrielavillarroel/BlackJack/BlackJack/obj/Debug/net9.0/BlackJack.AssemblyInfo.cs
+/Users/gabrielavillarroel/BlackJack/BlackJack/obj/Debug/net9.0/BlackJack.csproj.CoreCompileInputs.cache
+/Users/gabrielavillarroel/BlackJack/BlackJack/obj/Debug/net9.0/BlackJack.dll
+/Users/gabrielavillarroel/BlackJack/BlackJack/obj/Debug/net9.0/refint/BlackJack.dll
+/Users/gabrielavillarroel/BlackJack/BlackJack/obj/Debug/net9.0/BlackJack.pdb
+/Users/gabrielavillarroel/BlackJack/BlackJack/obj/Debug/net9.0/BlackJack.genruntimeconfig.cache
+/Users/gabrielavillarroel/BlackJack/BlackJack/obj/Debug/net9.0/ref/BlackJack.dll
